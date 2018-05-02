@@ -35,6 +35,6 @@ In this case it is `/Users/David/git/starwarsassignments-my-assignment-here`
 <img width="1200" src="./images/nav.png">
 
 
-9. Select your project and click finish, you now should be able to right click and run starwars.Application.java
+9. Select your project, open then click finish. You now should be able to right click and run `Javastarwars.Application.java`
 
 <img width="1200" src="./images/run.png">
