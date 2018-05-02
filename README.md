@@ -22,13 +22,19 @@ In this case it is `/Users/David/git/starwarsassignments-my-assignment-here`
 
 <img width="1200" src="./images/new_project_wizard.png">
 
-4. Select Java Project, click next, untick use default location and navigate to your project 
+6. Select Java Project, then click next.
 
-Make sure to untick `Use default location` and select `Browse` and navigate to where you selected to store your project.
+<img width="1200" src="./images/java_project.png">
+
+7. Untick `Use default location`
+
+<img width="1200" src="./images/untick.png">
+
+8. Select `Browse` and navigate to your project 
 
 <img width="1200" src="./images/nav.png">
 
 
-5. Select your project and click finish, you now should be able to right click and run starwars.Application.java
+9. Select your project and click finish, you now should be able to right click and run starwars.Application.java
 
 <img width="1200" src="./images/run.png">
